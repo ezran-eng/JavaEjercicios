@@ -48,14 +48,18 @@ public class Test {
                     break;
                 
                 case 3://division
-                    double div =  double num1 / num2);
+                    double div =  (double)num1 / num2;
                     System.out.println("El resultado de la division es:" + div);
                     break;
                  
                 case 4://multiplicacion
+                    int mult = num1 * num2;
+                    System.out.println("El resultado de la multiplicacion es:" + mult);
                     break;
                  
                 case 5://modulo
+                    int mod = num1 % num2;
+                    System.out.println("El resultado del modulo es:" + mod);
                     break;
                  
                 case 0://salir
