@@ -1,2 +1,2 @@
 # JavaEjercicios
-Ejercicios prácticos para el manejo absoluto en Java.
+Ejercicios prácticos para el manejo absoluto en Java..
